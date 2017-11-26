@@ -1,0 +1,1 @@
+[24-Sep-2016 02:27:48 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ofimaste/public_html/jstree/demo/sitebrowser/class.db.php on line 541

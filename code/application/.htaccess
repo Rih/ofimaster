@@ -1,0 +1,7 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+<IfModule authz_core_module>
+    Require all denied
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+</IfModule>

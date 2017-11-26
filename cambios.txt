@@ -1,0 +1,31 @@
+ADMINISTRADOR
+=================
+:Dashboard:
+=================
++ Conectar Estadísticas de las 3 Columnas Superiores y las listas de "ultimos 3 registros".
+
+=================
+:Lista de Usuarios:
+=================
++ Revisar Modal Eliminar (Error) OK
++ Al crear una cuenta de usuario se demora en aparecer el mensaje. ¿Puede cerrarse, bloquearse o dar avisopara evitar crear 2 veces la cuenta al seguir apretando el botón?
+OK
+=================
+Gestión de Archivos:
+=================
++ Probar bien el tema de las descargas, recordar que el Panel lo utilizarán personas que estarán constantemente moviendo información, eliminando, editando y agregando registros.
+
+
+
+CLIENTE
+=================
+:Menu:
+=================
++ Conectar contador de Archivos Disponibles en el Menú "Catálogos Descargables" OK
+
+=================
+:Dashboard:
+=================
++ Conectar Estadísticas de las 2 Columnas Superiores y las listas de "ultimos 3 registros".
+
+
